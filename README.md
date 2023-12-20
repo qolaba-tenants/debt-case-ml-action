@@ -15,7 +15,8 @@ This project involves developing a Machine Learning (ML) solution to enhance deb
 
 ## How to Use
 1. **Database Initialization**: Run the SQLite script to create and populate the database.
-2. **Run the Python Script**: Execute the Python script to train and evaluate the models.
+2. **Save Data File**: Execute the Python df file to save the sample dataset
+3. **Run the Python Script**: Execute the Python model script to train and evaluate the models.
 
 ## Models Used
 - **RandomForestClassifier**: For baseline predictive modeling.
